@@ -2,4 +2,4 @@
 <!-- SUBTITLE: A quick summary of Home -->
 
 # Hourai Teahouse Wiki
-Test Edit 1
+Test Edit 2
