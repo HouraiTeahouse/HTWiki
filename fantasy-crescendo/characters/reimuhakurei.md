@@ -1,4 +1,3 @@
 <!-- TITLE: Reimu Hakurei -->
-<!-- SUBTITLE: A quick summary of Reimuhakurei -->
+<!-- SUBTITLE: Playable Character in Fantasy Crescendo -->
 
-# Header
