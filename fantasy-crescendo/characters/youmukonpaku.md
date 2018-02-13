@@ -1,10 +1,8 @@
 <!-- TITLE: Youmu Konpaku -->
 <!-- SUBTITLE: Playable Character in Fantasy Crescendo -->
-
+# General Information
 ![Youmuchibit](/uploads/chibis/youmuchibit.png "Youmuchibit"){.pagelogo}
 ![Youmu Portrait 1](/uploads/characters/youmu-portrait-1.png "Youmu Portrait 1"){.align-right}
-
-# General Information
 Home Stage: [Netherworld](fantasy-crescendo/stages/netherworld)  
 Height: 1.5 m  
 Weight: 1 weight unit  
