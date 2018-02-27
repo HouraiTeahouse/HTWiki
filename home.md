@@ -12,6 +12,14 @@
   * [Yuuka Kazami](fantasy-crescendo/characters/yuuka_kazami)
   * [Yuugi Hoshiguma](fantasy-crescendo/characters/yuugi_hoshiguma)
   * [Minamitsu Murasa](fantasy-crescendo/characters/minamitsu_murasa)
+* Stages
+  * [Hakurei Shrine](fantasy-crescendo/stages/hakurei_shrine)
+  * [Forest of Magic](fantasy-crescendo/stages/forest_of_magic)
+  * [Scarlet Devil Mansion](fantasy-crescendo/stages/scarlet_devil_mansion)
+  * [Netherworld](fantasy-crescendo/stages/netherworld)
+  * [Makai](fantasy-crescendo/stages/makai)
+  * [Palanquin Ship](fantasy-crescendo/stages/palanquin_ship)
+  * [Debug Stage](fantasy-crescendo/stages/debug)
 # For Testers
 * [Reporting Bugs](fantasy-crescendo/testing/reporting-bugs)
 # For Developers
