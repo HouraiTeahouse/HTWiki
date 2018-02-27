@@ -4,7 +4,7 @@
 ![Marisachibit](/uploads/chibis/marisachibit.png "Marisachibit"){.pagelogo}
 ![Marisa Portrait 1](/uploads/characters/marisa-portrait-1.png "Marisa Portrait 1"){.align-right}
 
-Home Stage: [Netherworld](fantasy-crescendo/stages/forest_of_magic)  
+Home Stage: [Forest of Magic](fantasy-crescendo/stages/forest_of_magic)  
 Height: TBD
 Weight: TBD
 Walk Speed: TBD
