@@ -24,3 +24,4 @@
 * [Reporting Bugs](fantasy-crescendo/testing/reporting-bugs)
 # For Developers
 * [Setting up the project](fantasy-crescendo/development/project-setup)
+* [Simulation Model](fantasy-crescendo/development/simulation-model)
