@@ -21,6 +21,7 @@
   * [Palanquin Ship](fantasy-crescendo/stages/palanquin_ship)
   * [Debug Stage](fantasy-crescendo/stages/debug)
 # For Testers
+* [Steam Closed Beta](fantasy-crescendo/testing/steam-closed-beta)
 * [Reporting Bugs](fantasy-crescendo/testing/reporting-bugs)
 # For Developers
 * [Setting up the project](fantasy-crescendo/development/project-setup)
